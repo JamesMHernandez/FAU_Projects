@@ -21,3 +21,9 @@
 </h3>
 
 <img src= "https://www.treehugger.com/thmb/H2T140vCOLxad6YeqV2j6x8-i6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8-b3b667829a6c40449b7354eacab2873d.jpg">
+
+<h2>
+  Image of alexnet
+</h2>
+
+<img src="https://miro.medium.com/v2/resize:fit:772/1*kkyW7BR5FZJq4_oBTx3OPQ.png">
