@@ -1,7 +1,13 @@
 <h1> Video game versus real life location detection </h1>
 
+<div>
+  <div>
     <img src="https://i.imgur.com/SQwfUOd.jpeg" alt="Real" style="width:50%">
+  </div>
+  <div>
     <img src="https://i.imgur.com/fNgjIw4.jpeg" alt="Game" style="width:50%">
+  </div>
+</div>
 
 <p> This project is solely focused on using alexnet to classify whether an image was taken in a video game environment or in real life. </p>
 
