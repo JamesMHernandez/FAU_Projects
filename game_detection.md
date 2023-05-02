@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
 <h1> Video game versus real life location detection </h1>
 
 <div class="row">
@@ -38,5 +14,3 @@
 <a href ="https://docs.google.com/presentation/d/11uwLibvIyOP3Jja89rselCYy51umL3-doOeo_R67mz8/edit?usp=sharing"> Presentation </a>
 
 <a href="https://colab.research.google.com/drive/1VHtNswxvq3jf0eEuMmUegs_i1EyA97-5?usp=sharing"> Colab Notebook </a>
-  </body>
-</html>
