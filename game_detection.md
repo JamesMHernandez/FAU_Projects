@@ -1,4 +1,33 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
 <h1> Video game versus real life location detection </h1>
+
+<div class="row">
+  <div class="column">
+    <img src="https://i.imgur.com/SQwfUOd.jpeg" alt="Real" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/fNgjIw4.jpeg" alt="Game" style="width:100%">
+  </div>
+</div>
 
 <p> This project is solely focused on using alexnet to classify whether an image was taken in a video game environment or in real life. </p>
 
