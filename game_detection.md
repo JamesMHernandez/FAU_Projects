@@ -2,7 +2,7 @@
 
 <div>
   <div>
-    <img src="https://i.imgur.com/SQwfUOd.jpeg" alt="Real" style="width:50%">
+    <img src="https://i.imgur.com/SQwfUOd.jpeg" alt="Real" style="width:50%"> <img src="https://i.imgur.com/fNgjIw4.jpeg" alt="Game" style="width:50%">
   </div>
   <div>
     <img src="https://i.imgur.com/fNgjIw4.jpeg" alt="Game" style="width:50%">
