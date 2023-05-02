@@ -17,6 +17,16 @@
   The dataset for this project contains images of city/urban areas from video game locations that are modeled after real life areas. Some cities within the dataset include: Chicago, London, and Los Angeles to name a few.
 </p>
 
+<p>
+  A list of the game/franchises used in training the model:
+</p>
+<ul>
+  <li> Watch Dogs Franchise </li>
+  <li> Yakuza Franchise </li>
+  <li> Grand Theft Auto V </li>
+  <li> Assassins Creed Franchise </li>
+</ul>
+
 <a href ="https://docs.google.com/presentation/d/11uwLibvIyOP3Jja89rselCYy51umL3-doOeo_R67mz8/edit?usp=sharing"> Presentation Slides </a>
 
 <a href="https://colab.research.google.com/drive/1VHtNswxvq3jf0eEuMmUegs_i1EyA97-5?usp=sharing"> Colab Notebook </a>
