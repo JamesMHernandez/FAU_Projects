@@ -2,7 +2,7 @@
 
   <p float="left">
     <img src="https://i.imgur.com/SQwfUOd.jpeg" width = 600>
-    <img src="https://i.imgur.com/fNgjIw4.jpeg" width = 600>
+    <img src="https://overlode.co.uk/wp-content/uploads/2022/08/YAKUZA-KIWAMI-2-Tenkaichi-St__.jpeg" width = 700 height = 450>
   </p>
 
 <p>
