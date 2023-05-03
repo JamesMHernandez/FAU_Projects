@@ -27,7 +27,7 @@
   <li> Assassins Creed Franchise </li>
 </ul>
 
-<p> Links </p>
+<p> Links:</p>
 
 <a href="https://www.youtube.com/watch?v=_gUg4-xcN_U"> Presentation </a>
 
