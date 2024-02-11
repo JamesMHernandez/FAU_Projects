@@ -2,7 +2,7 @@
 
   <p float="left">
     <img src="https://i.imgur.com/SQwfUOd.jpeg" width = 600>
-    <img src="https://cdna.artstation.com/p/assets/images/images/058/433/242/large/reverse-pixel-yakuza-kiwami-2-screenshot-2022-08-12-14-56-15-03.jpg" width = 700 height = 450>
+    <img src="https://cdna.artstation.com/p/assets/images/images/058/433/242/large/reverse-pixel-yakuza-kiwami-2-screenshot-2022-08-12-14-56-15-03.jpg" width = 600>
   </p>
 
 <p>
